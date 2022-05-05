@@ -1,0 +1,10 @@
+1.Linux
+2.API
+3.Git
+4.SQL
+5.Postman
+6.JS
+7.Charles proxy
+8.Android studio
+9.Fiddler
+10.Jmeter

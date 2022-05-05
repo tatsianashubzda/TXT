@@ -1,0 +1,5 @@
+movie - Life is beautiful,
+series - ,
+food - meat,
+season - summer,
+country - Norway
